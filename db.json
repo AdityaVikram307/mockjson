@@ -1,0 +1,81 @@
+{
+    "events": [
+        {
+            "id": 0,
+            "name": "Artificial Intelligence Seminar",
+            "date": "22/07/2021",
+            "time": "11 AM",
+            "duration": "3 Hours",
+            "venue": "Google Meet",
+            "description": "Our seminar series covers a broad set of topics related to artificial intelligence (AI), machine learning (ML), and statistics. We aim to bring together AI/ML researchers and domain experts to discuss exciting topics at the intersection of AI/ML and science/engineering."
+            "contact": "5498623157"
+            
+        },
+        {
+            "id": 1,
+            "name": "Gaming Tournament",
+            "date": "02/08/2021 - 04/08/2021",
+            "time": "7 PM",
+            "duration": "3 Rounds Per Match",
+            "venue": "EpicGames.com",
+            "description": "If your team has the hots to claim cash prizes worth Rs 30000/- stake claim as champions,then make sure you register with us."
+            "contact": "4879865321"
+            
+        },
+        {
+            "id": 2,
+            "name": "Capture The Nature",
+            "date": "28/06/2021 - 30/06/2021",
+            "time": "No Time Limit",
+            "duration": "Nil",
+            "venue": "Instagram",
+            "description": "Take a photo of nature and greenery around you and make a suitable caption in less than 30 words, justifying the theme."
+            "contact": "4568329157"
+            
+        },
+        {
+            "id": 3,
+            "name": "Youth Skill-Up Summit",
+            "date": "11/07/2021",
+            "time": "12 PM",
+            "duration": "2 Hours",
+            "venue": "Zoom",
+            "description": "This Summit aims to engage young people's leadership potential to catalyze their careers by providing them with a forum to acquire and refine skills that would make them industry ready."
+            "contact": "1235642789"
+            
+        },
+        {
+            "id": 4,
+            "name": "Yoga Sandhya",
+            "date": "21/06/2021 - 27/06/2021",
+            "time": "6 PM",
+            "duration": "Depends on Event",
+            "venue": "Zoom",
+            "description": "Our Event Helps create awareness among people related to Hygiene and Health, adding a hygiene challenge including all the basic activities necessary to defeat COVID and speaker sessions on Yoga for COVID relief."
+            "contact": "1234567890"
+            
+        },
+        {
+            "id": 5,
+            "name": "Dance For The Soul",
+            "date": "30/06/2021",
+            "time": "5:30 PM Onwards",
+            "duration": "Nill",
+            "venue": "Google Meet",
+            "description": "Our Organisation Presents you the opportunity to showcase your dance skills.Record your best dance moves and send it to the links provided to get a chance of winning a cash prize of Rs. 10000."
+            "contact": "2465318791"
+            
+        },
+        {
+            "id": 6,
+            "name": "Olympic Quiz : Road To Tokyo",
+            "date": "28/06/2021 - 2/07/2021",
+            "time": "As Per Your Convenience",
+            "duration": "120 Seconds ( 10 Questions )",
+            "venue": "FitIndia.Gov.In",
+            "description": "As the international festival of Sports, TOKYO OLYMPICS is approaching round the corner, AIU and SAI in collaboration with IOA has launched an Olympic Quiz to create awareness among the youth about the Indian Contigent participation in the Olympic Games."
+            "contact": "7986531245"
+            
+        }
+    ]
+}
